@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/AFragment"
+        android:icon="@drawable/aeroplane"
+        android:title="Aeroplane"
+        />
+
+    <item
+        android:id="@+id/BFragment"
+        android:icon="@drawable/car"
+        android:title="Car"
+        />
+
+    <item
+        android:id="@+id/CFragment"
+        android:icon="@drawable/bike"
+        android:title="Bike"
+        />
+
+</menu>
