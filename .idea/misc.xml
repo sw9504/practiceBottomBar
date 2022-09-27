@@ -6,12 +6,15 @@
         <entry key="..\:/Users/JBL/AndroidStudioProjects/practiceBottomBar/app/src/main/res/drawable/aeroplane.xml" value="0.1" />
         <entry key="..\:/Users/JBL/AndroidStudioProjects/practiceBottomBar/app/src/main/res/layout/activity_main.xml" value="0.196875" />
         <entry key="..\:/Users/JBL/AndroidStudioProjects/practiceBottomBar/app/src/main/res/layout/activity_opening.xml" value="0.196875" />
+        <entry key="..\:/Users/JBL/AndroidStudioProjects/practiceBottomBar/app/src/main/res/layout/activity_settings.xml" value="0.196875" />
         <entry key="..\:/Users/JBL/AndroidStudioProjects/practiceBottomBar/app/src/main/res/layout/activity_splash.xml" value="0.1" />
         <entry key="..\:/Users/JBL/AndroidStudioProjects/practiceBottomBar/app/src/main/res/layout/fragment_a.xml" value="0.1" />
         <entry key="..\:/Users/JBL/AndroidStudioProjects/practiceBottomBar/app/src/main/res/layout/fragment_b.xml" value="0.1828125" />
         <entry key="..\:/Users/JBL/AndroidStudioProjects/practiceBottomBar/app/src/main/res/layout/fragment_c.xml" value="0.1" />
+        <entry key="..\:/Users/JBL/AndroidStudioProjects/practiceBottomBar/app/src/main/res/layout/fragment_settings.xml" value="0.196875" />
         <entry key="..\:/Users/JBL/AndroidStudioProjects/practiceBottomBar/app/src/main/res/layout/fragment_splash.xml" value="0.196875" />
         <entry key="..\:/Users/JBL/AndroidStudioProjects/practiceBottomBar/app/src/main/res/menu/main_menu.xml" value="0.17" />
+        <entry key="..\:/Users/JBL/AndroidStudioProjects/practiceBottomBar/app/src/main/res/xml/root_preferences.xml" value="0.1" />
       </map>
     </option>
   </component>

@@ -13,10 +13,19 @@
         android:id="@+id/CFragment"
         android:name="com.utn.practicebottombar.fragments.CFragment"
         android:label="fragment_c"
-        tools:layout="@layout/fragment_c" />
+        tools:layout="@layout/fragment_c" >
+        <action
+            android:id="@+id/action_CFragment_to_settingsActivity"
+            app:destination="@id/settingsActivity" />
+    </fragment>
     <fragment
         android:id="@+id/BFragment"
         android:name="com.utn.practicebottombar.fragments.BFragment"
         android:label="fragment_b"
         tools:layout="@layout/fragment_b" />
+    <activity
+        android:id="@+id/settingsActivity"
+        android:name="com.utn.practicebottombar.activities.SettingsActivity"
+        android:label="activity_settings"
+        tools:layout="@layout/activity_settings" />
 </navigation>
